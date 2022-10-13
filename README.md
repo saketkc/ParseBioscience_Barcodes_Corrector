@@ -1,2 +1,5 @@
-# ParseBioscience_Barcodes_Corrector
-Scripts to generate corrected barcodes list for a list of custom barcodes for ParseBiosciences kit
+# ParseBioscience Barcodes Corrector
+
+A script to generate corrected barcodes list for a list of custom barcodes for ParseBiosciences kit.
+
+
